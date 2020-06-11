@@ -1,0 +1,3 @@
+﻿<STFC_CONNECTION xmlns="http://Microsoft.LobServices.Sap/2007/03/Rfc/">
+  <REQUTEXT>Hello world!</REQUTEXT>
+</STFC_CONNECTION>
