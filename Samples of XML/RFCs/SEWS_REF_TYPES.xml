@@ -1,0 +1,18 @@
+<SEWS_REF_TYPES xmlns="http://Microsoft.LobServices.Sap/2007/03/Rfc/">
+  <IN>
+    <ACCP_6 xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/">201907</ACCP_6>
+    <CHAR_10 xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/">ABCDEFGHIJ</CHAR_10>
+    <CLNT_3 xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/">100</CLNT_3>
+    <DF16_DEC_15 xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/">1.23456789012345</DF16_DEC_15>
+    <DF16_RAW_16 xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/">1.234567890123456</DF16_RAW_16>
+    <DF34_DEC_15 xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/">1.23456789012345</DF34_DEC_15>
+    <DF34_RAW_34 xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/">1.234567890123456789012345678901234</DF34_RAW_34>
+    <DEC_10 xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/">1.234567890</DEC_10>
+    <FLTP_16 xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/">-1.2344e56</FLTP_16>
+    <INT1_3 xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/">255</INT1_3>
+    <INT2_5 xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/">-32768</INT2_5>
+    <INT4_10 xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/">-2147483648</INT4_10>
+    <INT8_19 xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/">-9223372036854775808</INT8_19>
+    <LANG_1 xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/">E</LANG_1>
+  </IN>
+</SEWS_REF_TYPES>

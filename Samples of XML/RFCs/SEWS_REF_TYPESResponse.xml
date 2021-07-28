@@ -1,0 +1,46 @@
+<SEWS_REF_TYPESResponse xmlns="http://Microsoft.LobServices.Sap/2007/03/Rfc/">
+  <OUT>
+    <ACCP_6 xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/">201907</ACCP_6>
+    <CHAR_10 xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/">ABCDEFGHIJ</CHAR_10>
+    <CLNT_3 xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/">100</CLNT_3>
+    <DF16_DEC_15 xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/">1.23456789012345</DF16_DEC_15>
+    <DF16_RAW_16 xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/">1.234567890123456</DF16_RAW_16>
+    <DF34_DEC_15 xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/">1.23456789012345</DF34_DEC_15>
+    <DF34_RAW_34 xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/">1.2345678901234567890123456789</DF34_RAW_34>
+    <DATS_8 d3p1:nil="true" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/"></DATS_8>
+    <DEC_10 xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/">1.23</DEC_10>
+    <FLTP_16 xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/">-1.2344E+56</FLTP_16>
+    <INT1_3 xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/">255</INT1_3>
+    <INT2_5 xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/">-32768</INT2_5>
+    <INT4_10 xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/">-2147483648</INT4_10>
+    <INT8_19 xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/">-9223372036854775808</INT8_19>
+    <LANG_1 xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/">E</LANG_1>
+    <LCHR_257 d3p1:nil="true" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/"></LCHR_257>
+    <NUMC_10 d3p1:nil="true" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/"></NUMC_10>
+    <PREC_2 xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/">0</PREC_2>
+    <RAW_10 xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/"></RAW_10>
+    <RAWSTRING_257 xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/"></RAWSTRING_257>
+    <SSTRING_10 d3p1:nil="true" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/"></SSTRING_10>
+    <STRING d3p1:nil="true" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/"></STRING>
+    <TIMS_6 d3p1:nil="true" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/"></TIMS_6>
+    <UNIT_3 d3p1:nil="true" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/"></UNIT_3>
+    <LRAW_257 xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/"></LRAW_257>
+    <XSDANY xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/"></XSDANY>
+    <XSDBOOLEAN d3p1:nil="true" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/"></XSDBOOLEAN>
+    <XSDDATE_D d3p1:nil="true" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/"></XSDDATE_D>
+    <XSDDATE_ISO d3p1:nil="true" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/"></XSDDATE_ISO>
+    <XSDDATETIME_ISO d3p1:nil="true" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/"></XSDDATETIME_ISO>
+    <XSDDATETIME_LOCAL d3p1:nil="true" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/"></XSDDATETIME_LOCAL>
+    <XSDDATETIME_LOCAL_DT d3p1:nil="true" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/"></XSDDATETIME_LOCAL_DT>
+    <XSDDATETIME_LONG_Z d3p1:nil="true" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/"></XSDDATETIME_LONG_Z>
+    <XSDDATETIME_OFFSET d3p1:nil="true" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/"></XSDDATETIME_OFFSET>
+    <XSDDATETIME_Z d3p1:nil="true" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/"></XSDDATETIME_Z>
+    <XSDDURATION_ISO d3p1:nil="true" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/"></XSDDURATION_ISO>
+    <XSDLANGUAGE d3p1:nil="true" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/"></XSDLANGUAGE>
+    <XSDQNAME d3p1:nil="true" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/"></XSDQNAME>
+    <XSDTIME_ISO d3p1:nil="true" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/"></XSDTIME_ISO>
+    <XSDTIME_T d3p1:nil="true" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/"></XSDTIME_T>
+    <XSDUUID_CHAR d3p1:nil="true" xmlns:d3p1="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/"></XSDUUID_CHAR>
+    <XSDUUID_RAW xmlns="http://Microsoft.LobServices.Sap/2007/03/Types/Rfc/"></XSDUUID_RAW>
+  </OUT>
+</SEWS_REF_TYPESResponse>
