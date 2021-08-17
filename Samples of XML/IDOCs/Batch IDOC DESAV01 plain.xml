@@ -1,0 +1,776 @@
+﻿<DESADV01>
+	<IDOC BEGIN="1">
+		<EDI_DC40 SEGMENT="1">
+			<TABNAM>EDI_DC40</TABNAM>
+			<MANDT>100</MANDT>
+			<DOCNUM>0000000000139741</DOCNUM>
+			<DOCREL>750</DOCREL>
+			<STATUS>30</STATUS>
+			<DIRECT>1</DIRECT>
+			<OUTMOD>2</OUTMOD>
+			<EXPRSS />
+			<TEST />
+			<IDOCTYP>DESADV01</IDOCTYP>
+			<CIMTYP />
+			<MESTYP>DESADT</MESTYP>
+			<MESCOD />
+			<MESFCT />
+			<STD />
+			<STDVRS />
+			<STDMES>DESADT</STDMES>
+			<SNDPOR>SAPDV3</SNDPOR>
+			<SNDPRT>LS</SNDPRT>
+			<SNDPFC />
+			<SNDPRN>DAVIBURG</SNDPRN>
+			<SNDSAD />
+			<SNDLAD />
+			<RCVPOR>A000000001</RCVPOR>
+			<RCVPRT>LS</RCVPRT>
+			<RCVPFC />
+			<RCVPRN>DAVIBURG</RCVPRN>
+			<RCVSAD />
+			<RCVLAD />
+			<CREDAT>20210817</CREDAT>
+			<CRETIM>002804</CRETIM>
+			<REFINT />
+			<REFGRP />
+			<REFMES />
+			<ARCKEY />
+			<SERIAL />
+		</EDI_DC40>
+		<E1EDK07 SEGMENT="1">
+			<ACTION />
+			<BOLNR />
+			<VBELN />
+			<TRAID />
+			<TRATY />
+			<INCO1 />
+			<INCO2 />
+			<ROUTE />
+			<ROUTE_BEZ />
+			<VSBED />
+			<VSTEL />
+			<VSTEL_BEZ />
+			<VKORG />
+			<VKGRP />
+			<VTWEG />
+			<EXPKZ />
+			<BEROT />
+			<LSTEL />
+			<EXPVZ />
+			<EXPVZ_BEZ />
+			<ZOLLA />
+			<ZOLLB />
+			<ZOLL1 />
+			<ZOLL2 />
+			<ZOLL3 />
+			<ZOLL4 />
+			<ZOLL5 />
+			<ZOLL6 />
+			<KZGBE />
+			<KZABE />
+			<STGBE />
+			<STABE />
+			<GRWCU />
+			<ZONE1 />
+			<EDLKZ />
+			<SPDLA />
+			<SPDLN />
+			<ZLFLH />
+			<WAERK />
+			<FRAKO />
+			<STABA />
+			<DOCC1 />
+			<DOCC2 />
+			<DOCN1 />
+			<DOCD1 />
+			<DOCD2 />
+			<RECIPNT_NO />
+			<INCOV />
+			<INCO2_L />
+			<INCO3_L />
+			<E1EDKA1 SEGMENT="1">
+				<PARVW />
+				<PARTN />
+				<LIFNR />
+				<NAME1 />
+				<NAME2 />
+				<NAME3 />
+				<NAME4 />
+				<STRAS />
+				<STRS2 />
+				<PFACH />
+				<ORT01 />
+				<COUNC />
+				<PSTLZ />
+				<PSTL2 />
+				<LAND1 />
+				<ABLAD />
+				<PERNR />
+				<PARNR />
+				<TELF1 />
+				<TELF2 />
+				<TELBX />
+				<TELFX />
+				<TELTX />
+				<TELX1 />
+				<SPRAS />
+				<ANRED />
+				<ORT02 />
+				<HAUSN />
+				<STOCK />
+				<REGIO />
+				<PARGE />
+				<ISOAL />
+				<ISONU />
+				<FCODE />
+				<IHREZ />
+				<BNAME />
+				<PAORG />
+				<ORGTX />
+				<PAGRU />
+				<KNREF />
+				<ILNNR />
+				<PFORT />
+				<SPRAS_ISO />
+				<TITLE />
+			</E1EDKA1>
+			<E1EDK03 SEGMENT="1">
+				<IDDAT />
+				<DATUM />
+				<UZEIT />
+			</E1EDK03>
+			<E1EDKT1 SEGMENT="1">
+				<TDID />
+				<TSSPRAS />
+				<TSSPRAS_ISO />
+				<TDOBJECT />
+				<TDOBNAME />
+				<E1EDKT2 SEGMENT="1">
+					<TDLINE />
+					<TDFORMAT />
+				</E1EDKT2>
+			</E1EDKT1>
+		</E1EDK07>
+		<E1EDK08 SEGMENT="1">
+			<ACTION />
+			<VBELN />
+			<TRAID />
+			<TRATY />
+			<INCO1 />
+			<INCO2 />
+			<ROUTE />
+			<ROUTE_BEZ />
+			<VSBED />
+			<VSTEL />
+			<VSTEL_BEZ />
+			<VKORG />
+			<VKGRP />
+			<VTWEG />
+			<EXPKZ />
+			<BEROT />
+			<LSTEL />
+			<EXPVZ />
+			<EXPVZ_BEZ />
+			<ZOLLA />
+			<ZOLLB />
+			<ZOLL1 />
+			<ZOLL2 />
+			<ZOLL3 />
+			<ZOLL4 />
+			<ZOLL5 />
+			<ZOLL6 />
+			<KZGBE />
+			<KZABE />
+			<STGBE />
+			<STABE />
+			<GRWCU />
+			<ZONE1 />
+			<EDLKZ />
+			<SPDLA />
+			<SPDLN />
+			<ZLFLH />
+			<WAERK />
+			<FRAKO />
+			<STABA />
+			<DOCC1 />
+			<DOCC2 />
+			<DOCN1 />
+			<DOCD1 />
+			<DOCD2 />
+			<VSART />
+			<VSART_BEZ />
+			<INCOV />
+			<INCO2_L />
+			<INCO3_L />
+			<E1EDS01 SEGMENT="1">
+				<SUMID />
+				<SUMME />
+				<SUNIT />
+				<WAERQ />
+			</E1EDS01>
+			<E1EDKA2 SEGMENT="1">
+				<PARVW />
+				<PARTN />
+				<LIFNR />
+				<NAME1 />
+				<NAME2 />
+				<NAME3 />
+				<NAME4 />
+				<STRAS />
+				<STRS2 />
+				<PFACH />
+				<ORT01 />
+				<COUNC />
+				<PSTLZ />
+				<PSTL2 />
+				<LAND1 />
+				<ABLAD />
+				<PERNR />
+				<PARNR />
+				<TELF1 />
+				<TELF2 />
+				<TELBX />
+				<TELFX />
+				<TELTX />
+				<TELX1 />
+				<SPRAS />
+				<ANRED />
+				<ORT02 />
+				<HAUSN />
+				<STOCK />
+				<REGIO />
+				<PARGE />
+				<ISOAL />
+				<ISONU />
+				<FCODE />
+				<KNREF />
+				<ILNNR />
+			</E1EDKA2>
+			<E1EDK06 SEGMENT="1">
+				<IDDAT />
+				<DATUM />
+				<UHRZE />
+			</E1EDK06>
+			<E1EDKT3 SEGMENT="1">
+				<TDID />
+				<TSSPRAS />
+				<TSSPRAS_ISO />
+				<E1EDKT4 SEGMENT="1">
+					<TDLINE>ANOTHER TEXT LINE</TDLINE>
+					<TSSPRAS_ISO />
+				</E1EDKT4>
+			</E1EDKT3>
+			<E1EDP06 SEGMENT="1">
+				<PCKAR />
+				<PCKNR />
+				<ANZPA />
+				<TPKEY />
+				<ARKTX />
+			</E1EDP06>
+			<E1EDP07 SEGMENT="1">
+				<HLNUM />
+				<PARENT />
+				<BSTNK />
+				<BSTDK />
+				<BSTZT />
+				<POSEX />
+				<VBELN />
+				<VGBEL />
+				<VGPOS />
+				<VGTYP />
+				<LABNK />
+				<ZEICH />
+				<BSTZD />
+				<ABRKZ />
+				<ABRDT />
+				<KTEXT />
+				<SGT_SCAT />
+				<E1EDP08 SEGMENT="1">
+					<HLNUM />
+					<PARENT />
+					<LEVEL>66</LEVEL>
+					<EXIDV />
+					<VENUM />
+					<VEMEH />
+					<PCKAR />
+					<PCKNR />
+					<ANZAR />
+					<VBELN />
+					<POSNR />
+					<BTGEW />
+					<NTGEW />
+					<TARAG />
+					<GEWEI />
+					<BTVOL />
+					<NTVOL />
+					<TAVOL />
+					<VOLEH />
+					<LAENG>2</LAENG>
+					<BREIT />
+					<HOEHE />
+					<MEABM />
+					<MEINS />
+					<VSTEL>SEATTLE</VSTEL>
+					<LSTEL />
+					<PKNRS />
+				</E1EDP08>
+				<E1EDP09 SEGMENT="1">
+					<HLNUM>1</HLNUM>
+					<PARENT>1</PARENT>
+					<VBELN>BY FOOT</VBELN>
+					<POSNR>BICYCLE</POSNR>
+					<ABRVW>SPO</ABRVW>
+					<MATNR>123</MATNR>
+					<WERKS>100</WERKS>
+					<LGORT>UNITED STATES OF SAP</LGORT>
+					<CHARG>1</CHARG>
+					<KDMAT>36</KDMAT>
+					<LFIMG>1</LFIMG>
+					<VRKME>LBS</VRKME>
+					<BTGEW>20 LBS</BTGEW>
+					<NTGEW>18 LBS</NTGEW>
+					<GEWEI>LBS</GEWEI>
+					<VOLUM />
+					<VOLEH />
+					<ARKTX>IMAGINARY UNIT</ARKTX>
+					<EANNR />
+					<STAWN>789</STAWN>
+					<EXART />
+					<EXART_BEZ>UNICORN CYCLE</EXART_BEZ>
+					<HERKL>FRANCE</HERKL>
+					<HERKR />
+					<GRWRT />
+					<UEPOS />
+					<TXTZ1 />
+					<TXTZ2>RABBIT HOLE</TXTZ2>
+					<ZOLLG />
+					<MWSAT />
+					<BERLI />
+					<TSTKY />
+					<DOKPF />
+					<DESRE />
+					<ECHNO />
+					<ECHDT />
+					<VBRST />
+					<ZEIKD />
+					<TARIF />
+					<AMERK />
+					<AMERT />
+					<IMPLN />
+					<EXPLN />
+					<CHBEZ>HAZARDOUS</CHBEZ>
+					<KLAS1 />
+					<IMOCE />
+					<IMCNR />
+					<UNNUM>1</UNNUM>
+					<AESKD />
+					<PREFE />
+					<LABNK />
+					<ABRDT />
+				</E1EDP09>
+				<E1EDPT1 SEGMENT="1">
+					<TDID />
+					<TSSPRAS>EN</TSSPRAS>
+					<TSSPRAS_ISO />
+					<E1EDPT2 SEGMENT="1">
+						<TDLINE>SOME TEXT LINE TO FORCE THE SEGMENT'S PRESENCE</TDLINE>
+						<TDFORMAT />
+					</E1EDPT2>
+				</E1EDPT1>
+			</E1EDP07>
+		</E1EDK08>
+		<E1EDS02 SEGMENT="1">
+			<SUMID>EE</SUMID>
+			<SUMME />
+			<SUNIT>1</SUNIT>
+		</E1EDS02>
+	</IDOC>
+	<IDOC BEGIN="1">
+		<EDI_DC40 SEGMENT="1">
+			<TABNAM>EDI_DC40</TABNAM>
+			<MANDT>100</MANDT>
+			<DOCNUM>0000000000139742</DOCNUM>
+			<DOCREL>750</DOCREL>
+			<STATUS>30</STATUS>
+			<DIRECT>1</DIRECT>
+			<OUTMOD>2</OUTMOD>
+			<EXPRSS />
+			<TEST />
+			<IDOCTYP>DESADV01</IDOCTYP>
+			<CIMTYP />
+			<MESTYP>DESADT</MESTYP>
+			<MESCOD />
+			<MESFCT />
+			<STD />
+			<STDVRS />
+			<STDMES>DESADT</STDMES>
+			<SNDPOR>SAPDV3</SNDPOR>
+			<SNDPRT>LS</SNDPRT>
+			<SNDPFC />
+			<SNDPRN>DAVIBURG</SNDPRN>
+			<SNDSAD />
+			<SNDLAD />
+			<RCVPOR>A000000001</RCVPOR>
+			<RCVPRT>LS</RCVPRT>
+			<RCVPFC />
+			<RCVPRN>DAVIBURG</RCVPRN>
+			<RCVSAD />
+			<RCVLAD />
+			<CREDAT>20210817</CREDAT>
+			<CRETIM>002804</CRETIM>
+			<REFINT />
+			<REFGRP />
+			<REFMES />
+			<ARCKEY />
+			<SERIAL />
+		</EDI_DC40>
+		<E1EDK07 SEGMENT="1">
+			<ACTION />
+			<BOLNR />
+			<VBELN />
+			<TRAID />
+			<TRATY />
+			<INCO1 />
+			<INCO2 />
+			<ROUTE />
+			<ROUTE_BEZ />
+			<VSBED />
+			<VSTEL />
+			<VSTEL_BEZ />
+			<VKORG />
+			<VKGRP />
+			<VTWEG />
+			<EXPKZ />
+			<BEROT />
+			<LSTEL />
+			<EXPVZ />
+			<EXPVZ_BEZ />
+			<ZOLLA />
+			<ZOLLB />
+			<ZOLL1 />
+			<ZOLL2 />
+			<ZOLL3 />
+			<ZOLL4 />
+			<ZOLL5 />
+			<ZOLL6 />
+			<KZGBE />
+			<KZABE />
+			<STGBE />
+			<STABE />
+			<GRWCU />
+			<ZONE1 />
+			<EDLKZ />
+			<SPDLA />
+			<SPDLN />
+			<ZLFLH />
+			<WAERK />
+			<FRAKO />
+			<STABA />
+			<DOCC1 />
+			<DOCC2 />
+			<DOCN1 />
+			<DOCD1 />
+			<DOCD2 />
+			<RECIPNT_NO />
+			<INCOV />
+			<INCO2_L />
+			<INCO3_L />
+			<E1EDKA1 SEGMENT="1">
+				<PARVW />
+				<PARTN />
+				<LIFNR />
+				<NAME1 />
+				<NAME2 />
+				<NAME3 />
+				<NAME4 />
+				<STRAS />
+				<STRS2 />
+				<PFACH />
+				<ORT01 />
+				<COUNC />
+				<PSTLZ />
+				<PSTL2 />
+				<LAND1 />
+				<ABLAD />
+				<PERNR />
+				<PARNR />
+				<TELF1 />
+				<TELF2 />
+				<TELBX />
+				<TELFX />
+				<TELTX />
+				<TELX1 />
+				<SPRAS />
+				<ANRED />
+				<ORT02 />
+				<HAUSN />
+				<STOCK />
+				<REGIO />
+				<PARGE />
+				<ISOAL />
+				<ISONU />
+				<FCODE />
+				<IHREZ />
+				<BNAME />
+				<PAORG />
+				<ORGTX />
+				<PAGRU />
+				<KNREF />
+				<ILNNR />
+				<PFORT />
+				<SPRAS_ISO />
+				<TITLE />
+			</E1EDKA1>
+			<E1EDK03 SEGMENT="1">
+				<IDDAT />
+				<DATUM />
+				<UZEIT />
+			</E1EDK03>
+			<E1EDKT1 SEGMENT="1">
+				<TDID />
+				<TSSPRAS />
+				<TSSPRAS_ISO />
+				<TDOBJECT />
+				<TDOBNAME />
+				<E1EDKT2 SEGMENT="1">
+					<TDLINE />
+					<TDFORMAT />
+				</E1EDKT2>
+			</E1EDKT1>
+		</E1EDK07>
+		<E1EDK08 SEGMENT="1">
+			<ACTION />
+			<VBELN />
+			<TRAID />
+			<TRATY />
+			<INCO1 />
+			<INCO2 />
+			<ROUTE />
+			<ROUTE_BEZ />
+			<VSBED />
+			<VSTEL />
+			<VSTEL_BEZ />
+			<VKORG />
+			<VKGRP />
+			<VTWEG />
+			<EXPKZ />
+			<BEROT />
+			<LSTEL />
+			<EXPVZ />
+			<EXPVZ_BEZ />
+			<ZOLLA />
+			<ZOLLB />
+			<ZOLL1 />
+			<ZOLL2 />
+			<ZOLL3 />
+			<ZOLL4 />
+			<ZOLL5 />
+			<ZOLL6 />
+			<KZGBE />
+			<KZABE />
+			<STGBE />
+			<STABE />
+			<GRWCU />
+			<ZONE1 />
+			<EDLKZ />
+			<SPDLA />
+			<SPDLN />
+			<ZLFLH />
+			<WAERK />
+			<FRAKO />
+			<STABA />
+			<DOCC1 />
+			<DOCC2 />
+			<DOCN1 />
+			<DOCD1 />
+			<DOCD2 />
+			<VSART />
+			<VSART_BEZ />
+			<INCOV />
+			<INCO2_L />
+			<INCO3_L />
+			<E1EDS01 SEGMENT="1">
+				<SUMID />
+				<SUMME />
+				<SUNIT />
+				<WAERQ />
+			</E1EDS01>
+			<E1EDKA2 SEGMENT="1">
+				<PARVW />
+				<PARTN />
+				<LIFNR />
+				<NAME1 />
+				<NAME2 />
+				<NAME3 />
+				<NAME4 />
+				<STRAS />
+				<STRS2 />
+				<PFACH />
+				<ORT01 />
+				<COUNC />
+				<PSTLZ />
+				<PSTL2 />
+				<LAND1 />
+				<ABLAD />
+				<PERNR />
+				<PARNR />
+				<TELF1 />
+				<TELF2 />
+				<TELBX />
+				<TELFX />
+				<TELTX />
+				<TELX1 />
+				<SPRAS />
+				<ANRED />
+				<ORT02 />
+				<HAUSN />
+				<STOCK />
+				<REGIO />
+				<PARGE />
+				<ISOAL />
+				<ISONU />
+				<FCODE />
+				<KNREF />
+				<ILNNR />
+			</E1EDKA2>
+			<E1EDK06 SEGMENT="1">
+				<IDDAT />
+				<DATUM />
+				<UHRZE />
+			</E1EDK06>
+			<E1EDKT3 SEGMENT="1">
+				<TDID />
+				<TSSPRAS />
+				<TSSPRAS_ISO />
+				<E1EDKT4 SEGMENT="1">
+					<TDLINE>ANOTHER TEXT LINE</TDLINE>
+					<TSSPRAS_ISO />
+				</E1EDKT4>
+			</E1EDKT3>
+			<E1EDP06 SEGMENT="1">
+				<PCKAR />
+				<PCKNR />
+				<ANZPA />
+				<TPKEY />
+				<ARKTX />
+			</E1EDP06>
+			<E1EDP07 SEGMENT="1">
+				<HLNUM />
+				<PARENT />
+				<BSTNK />
+				<BSTDK />
+				<BSTZT />
+				<POSEX />
+				<VBELN />
+				<VGBEL />
+				<VGPOS />
+				<VGTYP />
+				<LABNK />
+				<ZEICH />
+				<BSTZD />
+				<ABRKZ />
+				<ABRDT />
+				<KTEXT />
+				<SGT_SCAT />
+				<E1EDP08 SEGMENT="1">
+					<HLNUM />
+					<PARENT />
+					<LEVEL>66</LEVEL>
+					<EXIDV />
+					<VENUM />
+					<VEMEH />
+					<PCKAR />
+					<PCKNR />
+					<ANZAR />
+					<VBELN />
+					<POSNR />
+					<BTGEW />
+					<NTGEW />
+					<TARAG />
+					<GEWEI />
+					<BTVOL />
+					<NTVOL />
+					<TAVOL />
+					<VOLEH />
+					<LAENG>2</LAENG>
+					<BREIT />
+					<HOEHE />
+					<MEABM />
+					<MEINS />
+					<VSTEL>SEATTLE</VSTEL>
+					<LSTEL />
+					<PKNRS />
+				</E1EDP08>
+				<E1EDP09 SEGMENT="1">
+					<HLNUM>1</HLNUM>
+					<PARENT>1</PARENT>
+					<VBELN>BY FOOT</VBELN>
+					<POSNR>BICYCLE</POSNR>
+					<ABRVW>SPO</ABRVW>
+					<MATNR>123</MATNR>
+					<WERKS>100</WERKS>
+					<LGORT>UNITED STATES OF SAP</LGORT>
+					<CHARG>1</CHARG>
+					<KDMAT>36</KDMAT>
+					<LFIMG>1</LFIMG>
+					<VRKME>LBS</VRKME>
+					<BTGEW>20 LBS</BTGEW>
+					<NTGEW>18 LBS</NTGEW>
+					<GEWEI>LBS</GEWEI>
+					<VOLUM />
+					<VOLEH />
+					<ARKTX>IMAGINARY UNIT</ARKTX>
+					<EANNR />
+					<STAWN>789</STAWN>
+					<EXART />
+					<EXART_BEZ>UNICORN CYCLE</EXART_BEZ>
+					<HERKL>FRANCE</HERKL>
+					<HERKR />
+					<GRWRT />
+					<UEPOS />
+					<TXTZ1 />
+					<TXTZ2>RABBIT HOLE</TXTZ2>
+					<ZOLLG />
+					<MWSAT />
+					<BERLI />
+					<TSTKY />
+					<DOKPF />
+					<DESRE />
+					<ECHNO />
+					<ECHDT />
+					<VBRST />
+					<ZEIKD />
+					<TARIF />
+					<AMERK />
+					<AMERT />
+					<IMPLN />
+					<EXPLN />
+					<CHBEZ>HAZARDOUS</CHBEZ>
+					<KLAS1 />
+					<IMOCE />
+					<IMCNR />
+					<UNNUM>1</UNNUM>
+					<AESKD />
+					<PREFE />
+					<LABNK />
+					<ABRDT />
+				</E1EDP09>
+				<E1EDPT1 SEGMENT="1">
+					<TDID />
+					<TSSPRAS>EN</TSSPRAS>
+					<TSSPRAS_ISO />
+					<E1EDPT2 SEGMENT="1">
+						<TDLINE>SOME TEXT LINE TO FORCE THE SEGMENT'S PRESENCE</TDLINE>
+						<TDFORMAT />
+					</E1EDPT2>
+				</E1EDPT1>
+			</E1EDP07>
+		</E1EDK08>
+		<E1EDS02 SEGMENT="1">
+			<SUMID>EE</SUMID>
+			<SUMME />
+			<SUNIT>1</SUNIT>
+		</E1EDS02>
+	</IDOC>
+</DESADV01>
