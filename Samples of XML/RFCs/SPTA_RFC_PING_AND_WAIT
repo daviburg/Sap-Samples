@@ -1,0 +1,3 @@
+<SPTA_RFC_PING_AND_WAIT xmlns="http://Microsoft.LobServices.Sap/2007/03/Rfc/">
+  <SECONDS>60</SECONDS>
+</SPTA_RFC_PING_AND_WAIT>
