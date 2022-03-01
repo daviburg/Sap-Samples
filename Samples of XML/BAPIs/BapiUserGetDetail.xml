@@ -1,3 +1,4 @@
+<!-- Business object USER, method GETDETAIL for Unlock user implemented by RFC BAPI_USER_GET_DETAIL -->
 <GETDETAIL xmlns="http://Microsoft.LobServices.Sap/2007/03/Bapi/BUS2017/">
   <USERNAME>SAPUSERNAME</USERNAME>
 </GETDETAIL>
